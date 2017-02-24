@@ -14,9 +14,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'tcp:dragons.database.windows.net,1433',
-	'username' => 'kris',
-	'password' => 'Password1!',
+	'hostname' => 'tcp:dragons-php.database.windows.net,1433',
+	'username' => 'pla020',
+	'password' => 'idPLA20130113',
 	'database' => 'dragons',
 	'dbdriver' => 'sqlsrv',
 	'dbprefix' => '',
