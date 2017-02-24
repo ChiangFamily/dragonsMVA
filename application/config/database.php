@@ -14,10 +14,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'tcp:dragons-php.database.windows.net,1433',
+	'hostname' => 'tcp:dragons-test.database.windows.net,1433',
 	'username' => 'david',
 	'password' => 'Password!!',
-	'database' => 'dragons',
+	'database' => 'dragonsTEST',
 	'dbdriver' => 'sqlsrv',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
